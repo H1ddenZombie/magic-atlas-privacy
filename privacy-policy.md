@@ -26,4 +26,5 @@ You can delete your account at any time from within the app.
 
 ## Contact
 If you have questions about this policy, contact:
-magicatlas.app@gmail.com
+support@mind-mirage.uk
+
